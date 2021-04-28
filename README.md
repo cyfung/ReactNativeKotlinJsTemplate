@@ -1,5 +1,8 @@
 # ReactNativeKotlinJsTemplate
-<img alt="GitHub" src="https://img.shields.io/github/license/cyfung/ReactNativeKotlinJsTemplate">
+<a href="https://github.com/cyfung/ReactNativeKotlinJsTemplate/blob/main/LICENSE">
+  <img alt="GitHub" src="https://img.shields.io/github/license/cyfung/ReactNativeKotlinJsTemplate">
+</a>
+
 
 A minimalist React Native template for a quick start with Kotlin/JS.
 
