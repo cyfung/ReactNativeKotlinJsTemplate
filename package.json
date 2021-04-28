@@ -1,0 +1,8 @@
+{
+  "name": "react-native-kotlin-template",
+  "version": "0.64.0",
+  "description": "React Native Template For Kotlin/JS",
+  "repository": "https://github.com/cyfung/ReactNativeKotlinJsTemplate/",
+  "author": "Chun Yin Fung <mewfung@gmail.com>",
+  "license": "MIT"
+}
