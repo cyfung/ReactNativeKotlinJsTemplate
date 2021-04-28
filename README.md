@@ -17,7 +17,7 @@ npx react-native init MyApp --template https://github.com/cyfung/ReactNativeKotl
 npx  react-native-windows-init --overwrite
 ```
 
-## Run
+## Build
 Update the JS with one of the following gradle tasks in the App folder
 ```sh
 copyDevelopment
@@ -29,6 +29,7 @@ The postfix indicates whether it is for development or production
 
 Tasks with prefix `clean` will delete the `react/generated` folder before copying
 
+## Run
 Depending on your platform, use of the following commands in the `react` folder to start react-native
 ```sh
 npx react-native run-android
