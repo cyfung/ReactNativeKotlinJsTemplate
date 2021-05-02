@@ -15,9 +15,6 @@ dependencies {
     implementation(kotlin("stdlib-js"))
     implementation("org.jetbrains:kotlin-react:17.0.0-pre.133-kotlin-1.4.21")
     implementation("org.jetbrains:kotlin-extensions:1.0.1-pre.133-kotlin-1.4.21")
-    implementation(npm("react", "17.0.2"))
-    implementation(npm("react-native", "0.64.0"))
-    implementation(npm("react-native-navigation", "^7.1.0"))
 }
 
 kotlin {
